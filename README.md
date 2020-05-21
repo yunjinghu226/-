@@ -6,4 +6,6 @@
 - **experiment csv output文件夹:** 运行模型进行试验后导出的原始数据
 - **plotted tables文件夹:** 对原始数据进行整理和可视化的py文件，以及中间csv产物
 - **figures文件夹:** 最终图表
-![模型运行界面]()
+- **Final_Paper.pdf:** 最终论文
+
+![模型运行界面](https://github.com/yunjinghu226/MicroPedSim_ABM/blob/master/model_interface.png)
